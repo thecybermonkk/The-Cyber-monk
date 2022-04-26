@@ -5,7 +5,7 @@
   </head>
  
   <body>
-  <nav align="right" display="block"><a href="#">Home</a>  <a href="#">About</a></nav>
+  <nav align="right" display="block"><a href="#">Home</a>  <a href="#">About</a></nav><br> <br>
   <center><h1>We are just starting again.......</h1></center>
   </body>
 </html>
