@@ -5,7 +5,7 @@
   </head>
  
   <body>
-  <hr><menue align="right" display="inline"><ol display="inline"><a href="index.md">Home</a></ol> <ol display="inline"><a href="about.html">About</a></ol></menue><hr>
+  <hr><nav align="right" display="block"><a href="index.md">Home</a><a href="about.html">About</a></nav><hr>
   <center><h1>We are just starting again.......</h1></center>
   </body>
 </html>
